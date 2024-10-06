@@ -8,8 +8,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Devaing\\RestAPI\\": "src",
-            "Devaing\\RestAPI\\Tests\\": "tests"
+            "Devaing\\Envato\\": "src",
+            "Devaing\\Envato\\Tests\\": "tests"
         }
     },
     "authors": [
